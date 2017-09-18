@@ -19,7 +19,7 @@ body {
 /* Menu */
 
 .menu {
-    background-image: linear-gradient( 135deg, #F97794 0%, #623AA2 100%);
+    background-color:#EB60AD;
     padding: 10px 0;
 }
 
@@ -298,5 +298,13 @@ body {
 @media (max-width: 740px) and (max-width: 1420px) {
      .sobre-container {
         width: 960px;
-    }
+    }]
  }
+
+.contato {
+    
+}
+
+.footer {
+    background-image: linear-gradient( 135deg, #EB60AD 0%, #3AA2A2 100%)
+}
